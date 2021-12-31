@@ -1,0 +1,49 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1640942328676' stop='1640942330482'>
+    <name>Applitools demo page</name>
+    <title>Applitools demo page</title>
+    <test-cases>
+        <test-case start='1640942329804' status='passed' stop='1640942330387'>
+            <name>Should be able to login</name>
+            <title>Should be able to login</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1640942329804' status='----------' stop='1640942330373'>
+                    <name>----------</name>
+                    <title>----------</title>
+                    <attachments>
+                        <attachment title='username' source='5da7d697-5280-42de-90b4-da8586277dc4-attachment.png' type='image/png' size='122787'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <description type='text'>Should be able to login</description>
+        </test-case>
+        <test-case start='1640942330387' status='passed' stop='1640942330423'>
+            <name>Should have total balance of $300</name>
+            <title>Should have total balance of $300</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1640942330423' status='passed' stop='1640942330434'>
+            <name>Should have credit available of $17800</name>
+            <title>Should have credit available of $17800</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1640942330434' status='passed' stop='1640942330442'>
+            <name>Should have due today of $180</name>
+            <title>Should have due today of $180</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

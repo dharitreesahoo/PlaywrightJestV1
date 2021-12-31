@@ -1,0 +1,24 @@
+{
+  "name": "playwrightdemofinal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": { 
+    "test": "jest --watchAll --config=jestconfig.json"
+  },
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-allure-reporter": "^1.0.2",
+    "jest": "^27.4.5",
+    "jest-allure": "^0.1.3",
+    "jest-html-reporters": "^3.0.1",
+    "jest-playwright-preset": "^1.7.0",
+    "playwright": "^1.17.1"
+  },
+  "dependencies": {
+    "jasmine": "^3.10.0"
+  }
+}
